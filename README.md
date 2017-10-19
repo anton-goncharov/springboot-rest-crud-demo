@@ -1,9 +1,9 @@
-###Requirements
+### Requirements
 
 * Java 8+ 
 * Apache Maven
 
-###Overview
+### Overview
 
 By default, the applucation runs on port **8000**. This can be configured in `src/main/resources/application.yml`.
 
@@ -13,7 +13,7 @@ Embedded in-memory H2 database is used. It runs console at `localhost:8000/h2`
 
 Auto-generated REST API documentation is deployed to `localhost:8000/ui-swagger.html` 
 
-###Deployment
+### Deployment
 
 Clone the repository to your local folder.
 
